@@ -1,0 +1,183 @@
+img{
+	position: relative;
+	top: 70px;
+	margin-left: 210px;
+}
+
+
+.sesion{
+
+	position: absolute;
+	display:flex;
+	top: 16px;
+	margin-left: 910px;
+
+}
+
+
+.img-caja{
+	position: absolute;
+	margin-left:940px;
+	top:240px;
+}
+
+.img-credito{
+	position: absolute;
+	margin-left:940px;
+	top:270px;
+}
+
+
+.imagen-sesion{
+	position:relative;
+	opacity:1;	
+	border: 1px;
+}
+
+.img{
+	position:absolute;
+	padding: 0px;
+	width: 800px;
+	height: 500px;
+	top: 30px;
+	margin-left: 60px;
+}
+
+.sesion-1{
+	position:absolute;
+	border: 1px;
+	top:100px;
+	width: 450px;
+	height: 300px;
+	margin-left: 860px;
+	font-family: helvetica;
+	text-align: center;
+	top:200px;
+}
+
+.boton-sesion{
+	position: relative;
+	display: inline-block;
+	margin-left:350px;
+}
+
+.chec-usuario{
+	position: absolute;
+	top: 162px;
+	margin-left: 1px;
+}
+
+
+.guardar-1{
+	posistion:relative;
+	margin-left: 505px;
+}
+
+
+
+
+.contenedormenu{
+	posistion:relative;
+	margin-left: 100px;
+}
+
+
+.contenedorregistrocaja{
+	posistion:absolute;
+	width:850px;
+	padding: 40px;
+	margin-left: 260px;
+	margin-top: 80px;
+	border: 3px solid;
+	border-radius: 20px;
+	border-color: grey;
+}
+
+.contenedorregistrobuscar{
+	posistion:absolute;
+	width:1100px;
+	padding: 20px;
+	margin-left: 60px;
+	margin-top: 50px;
+	border: 3px solid;
+	border-radius: 20px;
+	
+
+}
+
+.forminline{
+
+	position: absolute;
+	display:flex;
+	top: 10px;
+	margin-left: 490px;
+}
+
+.busquedaa{
+	position:absolute;
+	display:inline-block;
+	top: 0px;
+	margin-left: 80px;
+
+}
+
+h2{
+	text-align: center;
+	
+}
+
+.card-1{
+	width: 400px;
+	background:#ffeebc;
+	margin-left: 180px;
+	margin-top: 100px;
+	font-size: medium;
+	
+}
+
+.card-2{
+	position:absolute;
+	display: block;
+	width: 400px;
+	background:#4afde7;
+	margin-left: 700px;
+	top: 156px;
+	font-size:medium ;
+}
+
+.card-3{
+	position:absolute;
+	display: block;
+	width: 400px;
+	background:#fdfd96;
+	margin-left: 180px;
+	top: 400px;
+	font-size: medium;
+}
+
+.card-4{
+	position:absolute;
+	display: block;
+	width: 400px;
+	background:#ffe5f0;
+	margin-left: 700px;
+	top: 400px;
+	font-size:medium ;
+}
+
+
+
+  /*.card-header-1{
+
+
+  }
+  .card-body-1{
+
+  }
+  .card-title-1{
+
+  }
+  .card-text-1{
+
+  }
+  */
